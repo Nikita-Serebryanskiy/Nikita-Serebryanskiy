@@ -1,6 +1,6 @@
 # Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on layout and learning CSS, HTML, Javascript<br>🤝 I’m looking for help with frontend technology<br>🌱 I’m currently learning on the web layout course<br>⚡ Interesting fact : I have a musical education
+🔭 I’m currently working on layout and learning CSS, HTML, JavaScript<br>🤝 I’m looking for help with frontend technology<br>🌱 I’m currently learning on the web layout course<br>⚡ Interesting fact : I have a musical education
 
 
 # 💻 Tech Stack:
